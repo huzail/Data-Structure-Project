@@ -1,5 +1,5 @@
 # Data-Structure-Project
-##                                             Topic Library Sort
+##  Topic Library Sort
 
 ##  Group Members
 
@@ -22,6 +22,4 @@ In library first step is we do binary search to find out the exact postion of in
 We use insertion sort to place the value in the gaps.
 ### Rebalancing 
 In last step we do rebalncing to create gaps between each elements.
-
-## Our Implementation
 
