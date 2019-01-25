@@ -1,5 +1,5 @@
 # Data-Structure-Project
-Topic Library Sort
+##                                             Topic Library Sort
 
 ##  Group Members
 
@@ -13,3 +13,15 @@ Library Sort is a sorting algorithm which is drived from insertion sort the majo
                                        Average CaseComplexity    O(n logn)
                                        Worst Case Complexity     O(n^2)
                                        Best Case Complexity      O(n)
+
+## Algorithm Explanation
+Library Sorting algorithm is the extension of insertion sort algorithm. In insertion gaps are inserted after each each element in array the author has not define the amount of gaps but it is denoted by epsilon. We use concept of rebalancing an array after insertion of elements in array. However it is not necessary that we rebalance the array after each insertion depending on the size of epsilon but in our implementation we did rebalancing after each insertion as we are placing 1 gap after each insertion. These are some of the cases we need to resolve before starting the implementation of algorithm These are the steps of the algorithm:
+### Binary Search
+In library first step is we do binary search to find out the exact postion of index where we want to inset our elements.
+### Insertion 
+We use insertion sort to place the value in the gaps.
+### Rebalancing 
+In last step we do rebalncing to create gaps between each elements.
+
+## Our Implementation
+
