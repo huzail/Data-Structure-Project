@@ -23,3 +23,13 @@ We use insertion sort to place the value in the gaps.
 ### Rebalancing 
 In last step we do rebalncing to create gaps between each elements.
 
+## Platform Support
+Our Project is implemented in C# and can be used in any Version of Visual Studio however We have complied it in Visual Studio 2017 and Visual Studio 2013. 
+
+## Basic Implementation
+We are using Arrays in this project but one can also use Lists in order to implement this project. 
+
+## How To Test Code?
+              First Intialize the Size of Array
+              Here we are using User Define input so put values in array (Avoide negative values)
+              All Code run will be run automatically and you will see final output (With Gaps) and steps output on the screen
