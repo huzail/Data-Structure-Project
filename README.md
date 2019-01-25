@@ -32,4 +32,5 @@ We are using Arrays in this project but one can also use Lists in order to imple
 ## How To Test Code?
               First Intialize the Size of Array
               Here we are using User Define input so put values in array (Avoide negative values)
-              All Code run will be run automatically and you will see final output (With Gaps) and steps output on the screen
+              All Code will run automatically and you will see final output (With Gaps) on the screen
+              We are also showing detail steps of our working of algorithm with output
