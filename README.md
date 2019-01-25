@@ -10,6 +10,6 @@ Topic Library Sort
 ## Introduction
 Library Sort is a sorting algorithm which is drived from insertion sort the major difference between the Library Sort and the Insertion sort is that it has gaps and the time complexity:
 ### Time Complexity
-                                   Average CaseComplexity    O(n logn)
-                                   Worst Case Complexity     O(n^2)
-                                   Best Case Complexity      O(n logn)
+                                       Average CaseComplexity    O(n logn)
+                                       Worst Case Complexity     O(n^2)
+                                       Best Case Complexity      O(n)
